@@ -1,0 +1,6 @@
+5
+Voce poderia inverter esta frase questionMark
+E esta frase?
+Voce poderia inverte-la
+Sim, eu poderia
+Sim sim

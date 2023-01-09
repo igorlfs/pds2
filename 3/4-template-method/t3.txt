@@ -1,0 +1,6 @@
+3
+America 2000 Atletico 1
+Cruzeiro 42 Atletico 3
+VilaChurupitaFC 0 GalaoDasMacas 0
+Sao Paulo 0 GalaoDasMacas 0
+Sao_Paulo 0 Galao 0        
